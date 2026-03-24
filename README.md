@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Engineering Manager / Full-Stack Developer</strong><br>
-  Building fintech products with passion for clean architecture and team growth
+  Building products with passion for clean architecture and team growth
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 ### About Me
 
-- Engineering Manager experienced in fintech & real estate crowdfunding
-- Full-stack developer: backend-heavy, but comfortable across the entire stack
+- Engineering Manager with full-stack background
+- Backend-heavy, but comfortable across the entire stack
 - Passionate about team productivity, architecture decisions, and shipping great products
 - Currently exploring AI-powered development workflows (Claude Code, MCP, Cursor)
 
@@ -71,18 +71,6 @@
 
 ---
 
-### Architecture & Domain
-
-```
-Clean Architecture / DDD / Layered Architecture / Event Sourcing / Microservices
-```
-
-```
-Fintech / Real Estate Crowdfunding / KYC / Payment Integration / IPO Audit (ITGC)
-```
-
----
-
 ### GitHub Stats
 
 <p align="center">
@@ -93,3 +81,13 @@ Fintech / Real Estate Crowdfunding / KYC / Payment Integration / IPO Audit (ITGC
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=awesome-linus&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
+
+---
+
+### Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awesome-linus/awesome-linus/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awesome-linus/awesome-linus/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/awesome-linus/awesome-linus/output/github-snake.svg">
+</picture>
