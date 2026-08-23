@@ -74,8 +74,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.kou-1ca.workers.dev/api?username=awesome-linus&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.kou-1ca.workers.dev/api/top-langs/?username=awesome-linus&hide=html&exclude_repo=awesome_blog,awesome_life&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://stats.awesome-linus.com/api?username=awesome-linus&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://stats.awesome-linus.com/api/top-langs/?username=awesome-linus&hide=html&exclude_repo=awesome_blog,awesome_life&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
